@@ -28,4 +28,4 @@ Random Forest achieved lower RMSE compared to Linear Regression, making it the b
 Check the screenshots folder for training outputs and visualizations.
 
 ## 📎 Author
-Your Name
+Adarsh kumar M
